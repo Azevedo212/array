@@ -1,0 +1,15 @@
+C:\Users\2022102020085\Documents\logica\3bimestre\arrayRevisao\arrayRevisao\bin\Debug\net6.0\arrayRevisao.exe
+C:\Users\2022102020085\Documents\logica\3bimestre\arrayRevisao\arrayRevisao\bin\Debug\net6.0\arrayRevisao.deps.json
+C:\Users\2022102020085\Documents\logica\3bimestre\arrayRevisao\arrayRevisao\bin\Debug\net6.0\arrayRevisao.runtimeconfig.json
+C:\Users\2022102020085\Documents\logica\3bimestre\arrayRevisao\arrayRevisao\bin\Debug\net6.0\arrayRevisao.dll
+C:\Users\2022102020085\Documents\logica\3bimestre\arrayRevisao\arrayRevisao\bin\Debug\net6.0\arrayRevisao.pdb
+C:\Users\2022102020085\Documents\logica\3bimestre\arrayRevisao\arrayRevisao\obj\Debug\net6.0\arrayRevisao.csproj.AssemblyReference.cache
+C:\Users\2022102020085\Documents\logica\3bimestre\arrayRevisao\arrayRevisao\obj\Debug\net6.0\arrayRevisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022102020085\Documents\logica\3bimestre\arrayRevisao\arrayRevisao\obj\Debug\net6.0\arrayRevisao.AssemblyInfoInputs.cache
+C:\Users\2022102020085\Documents\logica\3bimestre\arrayRevisao\arrayRevisao\obj\Debug\net6.0\arrayRevisao.AssemblyInfo.cs
+C:\Users\2022102020085\Documents\logica\3bimestre\arrayRevisao\arrayRevisao\obj\Debug\net6.0\arrayRevisao.csproj.CoreCompileInputs.cache
+C:\Users\2022102020085\Documents\logica\3bimestre\arrayRevisao\arrayRevisao\obj\Debug\net6.0\arrayRevisao.dll
+C:\Users\2022102020085\Documents\logica\3bimestre\arrayRevisao\arrayRevisao\obj\Debug\net6.0\refint\arrayRevisao.dll
+C:\Users\2022102020085\Documents\logica\3bimestre\arrayRevisao\arrayRevisao\obj\Debug\net6.0\arrayRevisao.pdb
+C:\Users\2022102020085\Documents\logica\3bimestre\arrayRevisao\arrayRevisao\obj\Debug\net6.0\arrayRevisao.genruntimeconfig.cache
+C:\Users\2022102020085\Documents\logica\3bimestre\arrayRevisao\arrayRevisao\obj\Debug\net6.0\ref\arrayRevisao.dll
